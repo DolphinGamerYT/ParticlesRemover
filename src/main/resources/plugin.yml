@@ -1,0 +1,12 @@
+name: ParticlesRemover
+version: ${project.version}
+main: com.dolphln.particlesremover.ParticlesRemover
+api-version: 1.16
+authors: [ Dolphln ]
+description: ParticlesRemover
+website: dolphln.com
+
+commands:
+  particlesremover:
+    aliases:
+      - pr
